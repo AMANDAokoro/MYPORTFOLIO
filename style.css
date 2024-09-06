@@ -1,0 +1,175 @@
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    list-style-type: none;
+}
+
+a:link {
+text-decoration: none;
+color:black ;
+}
+
+#hero-container {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+  
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+
+}
+
+#profile{
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+} 
+
+#paragraph1{
+    padding-right: 50px;
+}
+
+#description{
+  margin: 0 115px 71px 115px;
+}
+
+h1{
+    margin-bottom: 40px;
+ }
+
+#main-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    padding-right: 50px;
+    margin-bottom: 40px;
+}
+
+
+#post-heading{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.child-container{
+    margin-right: 20px;
+    background-color: rgb(248, 99, 168);
+    padding: 25px;
+    border-radius: 4px;
+}
+
+.child-content{
+    background-color: rgb(243, 116, 175);
+    padding: 25px;
+    border-radius: 4px;
+}
+
+header{
+    padding: 0 60px 0 60px;
+}
+ section{
+    padding: 3px 146px 3px 146px;
+ }
+
+#dash{
+    display: flex;
+    justify-content: start;
+    margin: 0 0 40px 0;
+    border-radius: 6px;
+    background-color: white;
+}
+
+#dashboard{
+    width: 246px;
+    height: 180px;
+    border-radius: 4px;
+}
+
+#year1{
+    margin-right: 10px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;    
+}
+
+#textss{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+#button1{
+    display: flex;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+#das{
+    display: flex;
+    justify-content: start;
+    margin: 0 0 40px 0;
+    border-radius: 6px;
+    background-color: white;
+}
+
+#illu{
+    width: 246px;
+    height: 180px;
+    border-radius: 4px;
+}
+
+#year{
+    margin-right: 10px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;    
+}
+
+#tex{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+#duo{
+    display: flex;
+    margin: 20px;
+}
+
+#line{
+    margin: 15px 0 15px 0;
+    border-bottom: 1px solid grey;
+}
+
+#resume{
+    display: flex;
+    justify-content: center;
+    margin-top: 83px;
+    gap: 35px;
+}
+
+#resume > img {
+    width: 30px;
+}
+
+
+#cop{
+    text-align: center;
+}
+
+#recentPostSection{
+    background-color: pink;
+}
+
